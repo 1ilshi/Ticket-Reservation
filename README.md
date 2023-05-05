@@ -1,6 +1,4 @@
-# M.RasheedSMD
-
-ticketReservation program
+Ticket Reservation
 
 Developed on jetBrains IntelliJ IDEA
 
