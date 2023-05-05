@@ -1,4 +1,4 @@
-__Ticket Reservation__
+# Ticket Reservation
 
 Developed on jetBrains IntelliJ IDEA
 
