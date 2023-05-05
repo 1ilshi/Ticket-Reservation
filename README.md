@@ -1,3 +1,3 @@
 # M.RasheedSMD
 
-click ticketReservation file to check out our ticket reservation program.
+click ticketReservation->src to check out our ticket reservation program.
